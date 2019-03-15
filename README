@@ -1,3 +1,5 @@
 # Bare Metal Assembler for MIPS
 Based on the work of https://www.eg.bucknell.edu/~csci320/mips_web/
 Add label, decimal number and comment support.
+
+Usage: ./assembler.js <mips assembly file> > <destination hex file>
